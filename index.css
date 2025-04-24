@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 24px;
+    border-bottom-width: 1px;
+    border-bottom-color: black;
+    border-bottom-style: dashed; 
+    border-bottom: 1px black dashed; //maneira simplificada de escrever o código de cima/
+}
+
+    .imagem-arredondada {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 1px solid red;
+        box-shadow: 15px 28px 45px 1px;
+    }

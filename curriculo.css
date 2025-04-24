@@ -1,0 +1,22 @@
+h1{
+    border-bottom-color: black;
+    
+}
+header {
+    background-color: #89cff0;
+    padding: 15px 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+footer {
+    background-color: #89cff0;
+    padding: 15px 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
